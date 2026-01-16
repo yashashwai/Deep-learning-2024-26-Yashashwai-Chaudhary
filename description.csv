@@ -1,0 +1,52 @@
+image_name,item_name,type,trend,colour,weather,gender,age,description
+anarkali1.jpg,anarkali,ethnic,vintage,black,summer,unisex,adult,"black anarkali (ethnic), vintage style suitable for summer weather — comfortable, versatile piece for unisex adult."
+blazer1.jpg,blazer,outer,formal,blue,summer,unisex,teen,"blue blazer (outer), formal style suitable for summer weather — comfortable, versatile piece for unisex teen."
+dhoti1.jpg,dhoti,ethnic,vintage,maroon,all,male,old,"maroon dhoti (ethnic), vintage style suitable for all weather — comfortable, versatile piece for male old."
+dress1.jpg,dress,top,casual,white,summer,male,young,"white dress (top), casual style suitable for summer weather — comfortable, versatile piece for male young."
+dungaree1.jpg,dungaree,onepiece,ethnic,beige,summer,unisex,young,"beige dungaree (onepiece), ethnic style suitable for summer weather — comfortable, versatile piece for unisex young."
+gown1.jpg,gown,onepiece,vintage,navy,all,unisex,old,"navy gown (onepiece), vintage style suitable for all weather — comfortable, versatile piece for unisex old."
+hoodie1.jpg,hoodie,top,formal,pink,all,female,teen,"pink hoodie (top), formal style suitable for all weather — comfortable, versatile piece for female teen."
+indo_western1.jpg,indo western,top,formal,maroon,winter,female,adult,"maroon indo western (top), formal style suitable for winter weather — comfortable, versatile piece for female adult."
+jacket1.jpg,jacket,outer,formal,blue,winter,male,teen,"blue jacket (outer), formal style suitable for winter weather — comfortable, versatile piece for male teen."
+jeans1.jpg,jeans,bottom,sporty,black,winter,female,adult,"black jeans (bottom), sporty style suitable for winter weather — comfortable, versatile piece for female adult."
+joggers1.jpg,joggers,bottom,casual,maroon,winter,unisex,teen,"maroon joggers (bottom), casual style suitable for winter weather — comfortable, versatile piece for unisex teen."
+jutti1.jpg,jutti,footwear,sporty,black,all,female,adult,"black jutti (footwear), sporty style suitable for all weather — comfortable, versatile piece for female adult."
+kurta_set1.jpg,kurta set,ethnic,ethnic,blue,all,male,teen,"blue kurta set (ethnic), ethnic style suitable for all weather — comfortable, versatile piece for male teen."
+kurti1.jpg,kurti,top,vintage,blue,winter,male,young,"blue kurti (top), vintage style suitable for winter weather — comfortable, versatile piece for male young."
+kurti2.jpg,kurti,top,casual,yellow,winter,female,adult,"yellow kurti (top), casual style suitable for winter weather — comfortable, versatile piece for female adult."
+lehenga1.jpg,lehenga,ethnic,formal,grey,winter,male,adult,"grey lehenga (ethnic), formal style suitable for winter weather — comfortable, versatile piece for male adult."
+romper1.jpg,romper,onepiece,vintage,navy,all,male,young,"navy romper (onepiece), vintage style suitable for all weather — comfortable, versatile piece for male young."
+salwar1.jpg,salwar,ethnic,ethnic,maroon,summer,male,old,"maroon salwar (ethnic), ethnic style suitable for summer weather — comfortable, versatile piece for male old."
+sandals1.jpg,sandals,footwear,sporty,green,all,unisex,young,"green sandals (footwear), sporty style suitable for all weather — comfortable, versatile piece for unisex young."
+saree1.jpg,saree,ethnic,vintage,grey,summer,male,teen,"grey saree (ethnic), vintage style suitable for summer weather — comfortable, versatile piece for male teen."
+saree2.jpg,saree,ethnic,party,yellow,winter,male,young,"yellow saree (ethnic), party style suitable for winter weather — comfortable, versatile piece for male young."
+saree3.jpg,saree,ethnic,ethnic,maroon,winter,male,old,"maroon saree (ethnic), ethnic style suitable for winter weather — comfortable, versatile piece for male old."
+saree4.jpg,saree,ethnic,sporty,navy,winter,male,adult,"navy saree (ethnic), sporty style suitable for winter weather — comfortable, versatile piece for male adult."
+sherwani1.jpg,sherwani,ethnic,formal,blue,all,unisex,adult,"blue sherwani (ethnic), formal style suitable for all weather — comfortable, versatile piece for unisex adult."
+shorts1.jpg,shorts,bottom,vintage,beige,winter,unisex,old,"beige shorts (bottom), vintage style suitable for winter weather — comfortable, versatile piece for unisex old."
+skirt1.jpg,skirt,bottom,party,blue,summer,unisex,old,"blue skirt (bottom), party style suitable for summer weather — comfortable, versatile piece for unisex old."
+jeans,anny,,kurti1.jpg
+jeans,anny,,tshirt1.jpg
+jeans,anny,,saree4.jpg
+jeans,anny,,tshirt2.jpg
+jeans,anny,,kurti2.jpg
+shirt,any,,tshirt2.jpg
+shirt,any,,sweater1.jpg
+shirt,any,,tshirt1.jpg
+shirt,any,,shorts1.jpg
+shirt,any,,skirt1.jpg
+jeans,,,tshirt2.jpg
+jeans,,,sweater1.jpg
+jeans,,,tshirt1.jpg
+jeans,,,shorts1.jpg
+jeans,,,skirt1.jpg
+jeans,,,tshirt2.jpg
+jeans,,,sweater1.jpg
+jeans,,,tshirt1.jpg
+jeans,,,shorts1.jpg
+jeans,,,skirt1.jpg
+jeans,,,tshirt2.jpg
+jeans,,,sweater1.jpg
+jeans,,,tshirt1.jpg
+jeans,,,shorts1.jpg
+jeans,,,skirt1.jpg

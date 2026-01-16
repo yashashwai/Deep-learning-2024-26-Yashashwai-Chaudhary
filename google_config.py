@@ -1,0 +1,2 @@
+GCS_DEVELOPER_KEY = 'AIzaSyDfreHd4gBf4c0xuKDn5hzhc78SCiAgI3U'
+GCS_CX = '063cd4c891da14f1e'

@@ -1,0 +1,2 @@
+# serp_config.py
+SERP_API_KEY = '76d546f5eeefe472eae68b18e026df81f27184b36d1702d5a70eefc09911d5e1'
